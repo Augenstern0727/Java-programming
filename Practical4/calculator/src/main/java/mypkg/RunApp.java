@@ -1,3 +1,4 @@
+package mypkg;
 import java.util.Scanner;
 
 public class RunApp {
